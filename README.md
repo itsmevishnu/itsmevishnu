@@ -12,4 +12,3 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: vishnujayan.in
 - ⚡ Fun fact: I am part time photographer, sports secy of CTARA and cycling enthusiast. 
 
--->
