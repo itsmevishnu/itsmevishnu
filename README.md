@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on SAP MM module and office administration in IIT Bombay, IoE Cell
+- 🔭 I’m currently working on SAP MM module and office administration at IoE Cell, IIT Bombay
 - 🌱 I’m currently learning Machine learning , DSA , Android development and Web Development
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Python, React and about Life @CTARA
