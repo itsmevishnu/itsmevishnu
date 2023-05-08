@@ -9,7 +9,6 @@ Here are some ideas to get you started: -->
 - 🌱 Currently, I am working in the field of Energy-Water-Food Nexus modeling. I am part of Climate Resilient Agriculutre Research team at IIT Bombay.
 - 🗺️ I am exploring geospatial data and tools like Google earth engine, Geopandas, QGIS and HECRAS for various geo modeling.
 - 📊 Expert in data analysis and machine learning alogirthms.
-- 
 - 💻 I had been worked with MNCs as a web application developer. I have 6 years of experience in design and development of web applications using Python, Javascript and PHP.
 - 📫 How to reach me: vishnujayan.in 
 
