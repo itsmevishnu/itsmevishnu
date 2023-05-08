@@ -3,15 +3,15 @@
 <!--
 **itsmevishnu/itsmevishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Vishnu Jayan</h1>
-<h3 align="center">Researcher|Programmer|Photographer|Web developer|Data Science</h3>
+<h3 align="center">Researcher|Programmer|Photographer|Web|Data Science</h3>
 
 Here are some ideas to get you started: -->
-- 🌱 I’m currently learning Machine learning.
-- 👍 Good at Android development and Web App Development using DJANGO, Laravel and React JS.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about Python, React, Laravel and  Life @CTARA- IIT Bombay.
-- 📫 How to reach me: vishnujayan.in
-- ⚡ Fun fact: I am part time photographer, sports secy of CTARA and a cycling enthusiast. 
+- 🌱 Currently, I am working in the field of Energy-Water-Food Nexus modeling. I am part of Climate Resilient Agriculutre Research team at IIT Bombay.
+- 🗺️ I am exploring geospatial data and tools like Google earth engine, Geopandas, QGIS and HECRAS for various geo modeling.
+- 📊 Expert in data analysis and machine learning alogirthms.
+- 
+- 💻 I had been worked with MNCs as a web application developer. I have 6 years of experience in design and development of web applications using Python, Javascript and PHP.
+- 📫 How to reach me: vishnujayan.in 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmevishnu&label=Profile%20views&color=0e75b6&style=flat" alt="itsmevishnu" /> </p>
